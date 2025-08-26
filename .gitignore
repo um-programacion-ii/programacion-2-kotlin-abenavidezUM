@@ -1,0 +1,11 @@
+# Gradle files
+.gradle/
+build/
+gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
